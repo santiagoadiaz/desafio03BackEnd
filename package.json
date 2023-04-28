@@ -1,0 +1,16 @@
+{
+    "name": "3raentrega",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "3raEntrega.js",
+    "scripts": {
+        "start": "nodemon 3raEntrega.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
